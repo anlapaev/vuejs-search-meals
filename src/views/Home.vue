@@ -25,4 +25,5 @@ import { computed } from "vue";
 import store from "../store/index.js";
 
 const letters = "ABCDEFGHIJKLMNOPQRSTUVWXYZ".split("");
+
 </script>
